@@ -36,7 +36,7 @@
     (APP_CFG_USBD_HID_EN == DEF_ENABLED)
 
 #include  <Class/HID/usbd_hid.h>
-#include  <Source/os.h>
+#include  <os.h>
 
 
 /*

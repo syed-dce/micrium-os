@@ -33,9 +33,9 @@
 
 #define    MICRIUM_SOURCE
 #include  <app_cfg.h>
-#include  "../../Source/usbd_core.h"
-#include  "../../Source/usbd_internal.h"
-#include  <Source/os.h>
+#include  "usbd_core.h"
+#include  "usbd_internal.h"
+#include  <os.h>
 
 
 /*

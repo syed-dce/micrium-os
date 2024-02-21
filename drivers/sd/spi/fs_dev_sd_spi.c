@@ -68,8 +68,8 @@
 #include  <lib_ascii.h>
 #include  <lib_mem.h>
 #include  <lib_str.h>
-#include  "../../../Source/fs.h"
-#include  "../../../Source/fs_dev.h"
+#include  "fs.h"
+#include  "fs_dev.h"
 #include  "fs_dev_sd_spi.h"
 
 

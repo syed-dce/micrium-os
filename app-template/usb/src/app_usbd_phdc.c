@@ -35,7 +35,7 @@
 #if (APP_CFG_USBD_EN      == DEF_ENABLED) && \
     (APP_CFG_USBD_PHDC_EN == DEF_ENABLED)
 #include  <Class/PHDC/usbd_phdc.h>
-#include  <Source/os.h>
+#include  <os.h>
 
 
 /*

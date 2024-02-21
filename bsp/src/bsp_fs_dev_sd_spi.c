@@ -44,8 +44,8 @@
 */
 
 #include  <cpu.h>
-#include  <Source/fs_type.h>
-#include  <Source/fs_err.h>
+#include  <fs_type.h>
+#include  <fs_err.h>
 #include  <Dev/SD/SPI/fs_dev_sd_spi.h>
 
 

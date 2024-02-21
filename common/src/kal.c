@@ -38,7 +38,7 @@
 #define   MICRIUM_SOURCE
 #define   KAL_MODULE
 
-#include  "../kal.h"
+#include  "kal.h"
 
 #include  <lib_def.h>
 

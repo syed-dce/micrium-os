@@ -36,9 +36,9 @@
     (APP_CFG_USBD_CDC_EEM_EN == DEF_ENABLED)
 #include  <Class/CDC-EEM/usbd_cdc_eem.h>
 
-#include  <Source/net.h>
-#include  <Source/net_ascii.h>
-#include  <Source/net_err.h>
+#include  <net.h>
+#include  <net_ascii.h>
+#include  <net_err.h>
 #include  <IF/net_if.h>
 #include  <IP/IPv4/net_ipv4.h>
 #include  <net_dev_cfg.h>

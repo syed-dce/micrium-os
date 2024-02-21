@@ -55,7 +55,7 @@
 
 #include  <cpu_core.h>
 #include  <app_cfg.h>
-#include  <Source/fs_util.h>
+#include  <fs_util.h>
 
 
 /*
@@ -104,7 +104,7 @@
 */
 
 #if (APP_CFG_FS_EN         == DEF_ENABLED)
-#include  <Source/fs.h>
+#include  <fs.h>
 
 #if (APP_CFG_FS_IDE_EN     == DEF_ENABLED)
 #include  <Dev/IDE/fs_dev_ide.h>
@@ -120,7 +120,7 @@
 #include  <Dev/NAND/Ctrlr/GenExt/fs_dev_nand_ctrlr_gen_soft_ecc.h>
 #include  <Dev/NAND/Part/fs_dev_nand_part_onfi.h>
 #include  <Dev/NAND/Part/fs_dev_nand_part_static.h>
-#include  <Source/ecc_hamming.h>
+#include  <ecc_hamming.h>
 #endif
 
 #if (APP_CFG_FS_NOR_EN     == DEF_ENABLED)

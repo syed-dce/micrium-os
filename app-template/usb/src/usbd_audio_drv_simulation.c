@@ -33,7 +33,7 @@
 #if (APP_CFG_USBD_AUDIO_EN == DEF_ENABLED)
 #include  <Class/Audio/usbd_audio_processing.h>
 #include  <usbd_audio_dev_cfg.h>
-#include  <Source/os.h>
+#include  <os.h>
 
 
 /*

@@ -41,7 +41,7 @@
 */
 
 #include  <cpu.h>
-#include  <Source/clk.h>
+#include  <clk.h>
 #include  "fs_cfg_fs.h"
 #include  "fs_dir.h"
 #include  "fs_err.h"

@@ -36,7 +36,7 @@
     (APP_CFG_USBD_VENDOR_EN == DEF_ENABLED)
 
 #include  <Class/Vendor/usbd_vendor.h>
-#include  <Source/os.h>
+#include  <os.h>
 
 
 /*

@@ -45,8 +45,8 @@
 
 #include  <cpu.h>
 #include  <fs_cfg.h>
-#include  <Source/fs_type.h>
-#include  <Source/fs_err.h>
+#include  <fs_type.h>
+#include  <fs_err.h>
 #include  <Dev/SD/Card/fs_dev_sd_card.h>
 
 

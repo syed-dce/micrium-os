@@ -49,8 +49,8 @@
 #include  <lib_mem.h>
 #include  <os.h>
 #include  "fs_os.h"
-#include  "../../Source/fs.h"
-#include  "../../Source/fs_dev.h"
+#include  "fs.h"
+#include  "fs_dev.h"
 
 
 /*
